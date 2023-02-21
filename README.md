@@ -1,9 +1,9 @@
-### Hi there, i'm Caio 👋
-- 👨‍🎓  I’m currently majonring in Computer Science
-- 🧑‍💻  Improving my back-end skills
-- 📫  email me: caioppubli@gmail.com
-
-### 📚Languages and 🛠️Tools
+## Hi there, i'm Caio 👋
+- 👨‍🎓 I’m currently majonring in Computer Science
+- 📈 Improving my back-end skills
+- 🧑‍💻 Working on side projects
+- 📫 Email me: caioppubli@gmail.com
+#### 📚Languages and 🛠️Tools
 - Java(Spring, Spring Boot)
 - JavaScript(TypeScript,NodeJs,ExpressJs,ReactJs,NextJs)
 - css(SCSS,ChakraUI,Styled-Components)
