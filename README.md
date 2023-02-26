@@ -7,7 +7,7 @@
 - Java (Spring, Spring Boot)
 - JavaScript (TypeScript,NodeJs,ExpressJs,ReactJs,NextJs)
 - CSS (SCSS,ChakraUI,Styled-Components)
-- Python (Data Analisys)
+- Python (Data Analysis)
 - C/C++/C#
 - Databases (MongoDB, MySQL, PostgreSQL)
 - Environment (VSCode, Eclipse, IntelliJ, VIM)
