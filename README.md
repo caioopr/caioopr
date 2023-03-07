@@ -1,5 +1,5 @@
 ## Hi there, i'm Caio 👋
-- 👨‍🎓 I’m currently majonring in Computer Science
+- 👨‍🎓 I’m currently majoring in Computer Science
 - 📈 Improving my back-end skills
 - 🧑‍💻 Working on side projects
 - 📫 Email me: caioppubli@gmail.com
