@@ -1,6 +1,7 @@
 ## Hi there, i'm Caio 👋
 - 👨‍🎓 I’m currently majoring in Computer Science
 - 📈 Improving my back-end skills
+- 🔋 Current stack: ExpressJs | NestJs | SpringBoot | ReactJs | NextJs
 - 🧑‍💻 Working on side projects
 - 📫 Email me: caioppubli@gmail.com
 #### 📚Languages and 🛠️Tools
