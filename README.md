@@ -4,4 +4,4 @@
 - 🔋 Current stack: Java | Go | Vue.js | Nuxt.js
 - 🧑‍💻 Working on side projects
 - 📫 Email me: caioppubli@gmail.com
-- 🌐 site: caioopr.github.io/second_brain/ 
+- 🌐 Site: [caioopr.github.io/second_brain/](https://caioopr.github.io/second_brain/) 
