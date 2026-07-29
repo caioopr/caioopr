@@ -3,4 +3,4 @@
 - 🧑‍💻 Working as a full-stack software developer
 - 🔋 Current stack: Java | Go | Vue.js | Nuxt.js | Angular.js | Next.js | RA
 - 📫 Email me: caioppubli@gmail.com
-- 🌐 Site: [caioopr.github.io/second_brain/](https://caioopr.github.io/second_brain/) 
+- 🌐 Site: [caiop-dev.com](https://caiop-dev.com) 
